@@ -14,7 +14,7 @@ html, body {
 .text {
     position: absolute;
     top: 250px;
-    left: 100px;
+    left: 145px;
 }
 
 .text h1 {
@@ -39,5 +39,5 @@ html, body {
 
 .model {
     margin-top: 17em;
-    margin-left: 20em;
+    margin-left: 24em;
 }
